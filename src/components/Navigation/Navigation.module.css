@@ -1,0 +1,21 @@
+/* Navigation */
+.navigation{
+      display: flex;
+      justify-content: space-between;
+      height: 72px;
+      align-items: center;
+}
+
+.navigation img{
+      height: 52px;
+}
+
+.navigation ul{
+      display: flex;
+      gap:32px;
+      font-weight: 500;
+}
+
+.navigation ul li{
+      list-style: none;
+}
